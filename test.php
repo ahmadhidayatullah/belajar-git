@@ -1,4 +1,5 @@
 <?php
 
 phpinfo();
-print_r("test");
+
+echo"apa";
